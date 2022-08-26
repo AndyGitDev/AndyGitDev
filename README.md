@@ -1,8 +1,7 @@
-- Hi, I’m Andy Ouyang
-- I’m interested in intelligent systems and embedded systems
-- I’m currently a final year student studying Computer Engineering
+<h1 align="center">Hi, I'm Andy</h1>
+<h3 align="center">Final year computer engineering student at University of Pretoria</h3>
 
-<!---
-AndyGitDev/AndyGitDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Current interests
+- Learning more about software development, both frontend and backend
+- Developing embedded systems
+- Machine learning and artifficial intelligence
